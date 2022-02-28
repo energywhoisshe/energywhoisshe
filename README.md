@@ -1,4 +1,5 @@
-### Hi there 👋
+##### Cha Yeonså
+##### energywhoisshe@gmail.com
 
 <!--
 **energywhoisshe/energywhoisshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
