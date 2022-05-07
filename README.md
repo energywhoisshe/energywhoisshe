@@ -11,19 +11,16 @@ I'm an artist, currently working on **resillience and creativity**.
 
 #### 4 body tracker
 
-|제목|내용|설명|설명|설명|
+| | <span style="color:red"> mental | physical | spiritual | emotional |
 |---|---|---|---|---|
-|테스트1|*강조1*|테스트3|설명|설명|
-|테스트1|**강조2**|테스트3|설명|설명|
-|테스트1|<span style="color:red">강조3</span>|테스트3|설명|설명|
+|2022|  | `bouldering` | `meditation` | `stop-smoking` `writing morning-page` `stopping psychotropic medication`|
+|2021| __Solo Show__ `learning C++` | `hiking` `badminton` `ping-pong` | | `teaching childen art` |
+|2020| __Two-person Show / BFA Graduation Show__ |테스트3| |설명|
+|2019| __Studied in Sweden__ | `weight training` | `dancing afrohouse` `listening techno` | `teaching public art` |
+|2018| __Three-person Show__ | `weight training` |  | `teaching public art` |
+|2017|  |   |  | `teaching public art` |
+|2016| __Foundation Show__ | `weight training` |테스트3|설명|설명|
 
-2022 `stop-smoking` `bouldering` `stopping psychotropic medication` `writing morning-page`. 
-
-2021 __Solo Show__ 💬 `teaching childen art` `hiking` `badminton` `ping-pong` 💻 `learning C++`.  
-2020 __Two-person Show / BFA Graduation Show__   .  
-2019 __Stay in Sweden__ `dancing afrohouse` `listening techno` `weight training`.  
-2018 __Three-person Show__ `weight training`.    
-2017 `teaching public art`
 
 <!--
 **energywhoisshe/energywhoisshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
