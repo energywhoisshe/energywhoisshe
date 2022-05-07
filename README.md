@@ -5,7 +5,7 @@
 Last Updated on 2022.05
 ```
 
-I'm currently working on **game making**.
+I'm currently working on **resillience and creativity**.
 
 **Except when working, I care myself by**  
 2022 summer `🏊 learning swimming` `🚥 learning driving`.  
