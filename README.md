@@ -1,15 +1,20 @@
 #### Cha Yeonså
 #### energywhoisshe@gmail.com
 
-I'm currently working on `game making`.
+```
+Last Updated on 2022.05
+```
 
-**Except working, I care myself by**  
+I'm currently working on **game making**.
+
+**Except when working, I care myself by**  
 2022 summer `🏊 learning swimming` `🚥 learning driving`.  
 2022 spring `🚭 stop-smoking` `🧗 learning bouldering` `💊 stopping psychotropic medication` `📝 writing morning-page`.  
 
-2021 winter `🏓 playing ping-pong`.   
+2021 winter __Solo Show__ `🏓 playing ping-pong` `📚 reading`.   
 2021 fall  `🎨 teaching childen art` `💻 learning C++`.   
 2021 summer `⛰ hiking` `🏸 learning badminton`.   
+2021 spring __BFA graduation__
 
 <!--
 **energywhoisshe/energywhoisshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
