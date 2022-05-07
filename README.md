@@ -18,8 +18,8 @@ I'm a proffesional artist and currently working on **resillience and creativity*
 |2020| __Two-person Show / BFA Graduation Show__ | 😵 | 😵 | 😵 |
 |2019| __Studied in Sweden__ | `weight training` | `dancing afrohouse` `listening techno` | `running picture book making workshop` |
 |2018| __Three-person Show__ | `swimming` `weight training` |  | `lesbian feminism group study` `running feminism art workshop`  `teaching public art` |
-|2017|  |  `swimming` | `visiting Vallon Pont D'arc` | `teaching public art` |
-|2016| __Foundation Show__ | `weight training` | | | |
+|2017|  |  `swimming` `weight training` | `visiting Vallon Pont D'arc` | `teaching public art` |
+|2016| __Foundation Show__ | 😵 | 😵 | 😵 | 😵 |
 
 
 <!--
