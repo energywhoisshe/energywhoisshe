@@ -4,7 +4,7 @@ Last Updated on 2022.05
 energywhoisshe@gmail.com
 ```
 
-I'm an artist, currently working on **resillience and creativity**.
+I'm an proffesional artist and currently working on **resillience and creativity**.
 
 <br>
 <br>
@@ -13,7 +13,7 @@ I'm an artist, currently working on **resillience and creativity**.
 
 | | <span style="color:red"> mental | physical | spiritual | emotional |
 |---|---|---|---|---|
-|2022|  | `bouldering` | `meditation` | `stop-smoking` `writing morning-page` `stopping psychotropic medication`|
+|2022|  | `bouldering` | `meditation` | `stop-smoking` `writing morning-page` `stopping psychotropic medication` `teaching childen art`|
 |2021| __Solo Show__ `learning C++` | `hiking` `badminton` `ping-pong` | | `teaching childen art` |
 |2020| __Two-person Show / BFA Graduation Show__ |테스트3| |설명|
 |2019| __Studied in Sweden__ | `weight training` | `dancing afrohouse` `listening techno` | `teaching public art` |
