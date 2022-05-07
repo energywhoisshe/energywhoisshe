@@ -5,16 +5,20 @@
 Last Updated on 2022.05
 ```
 
-I'm currently working on **resillience and creativity**.
+I'm an artist, currently working on **resillience and creativity**.
 
 **Except when working, I care myself by**  
-2022 summer `🏊 learning swimming` `🚥 learning driving`.  
-2022 spring `🚭 stop-smoking` `🧗 learning bouldering` `💊 stopping psychotropic medication` `📝 writing morning-page`.  
+2022 summer `swimming` `driving`.  
+2022 spring `🚭 stop-smoking` `bouldering` `💊 stopping psychotropic medication` `📝 writing morning-page`.  
 
-2021 winter __Solo Show__ `🏓 playing ping-pong` `📚 reading`.   
+2021 winter __Solo Show__ `ping-pong`.   
 2021 fall  `🎨 teaching childen art` `💻 learning C++`.   
-2021 summer `⛰ hiking` `🏸 learning badminton`.   
-2021 spring __BFA graduation__
+2021 summer `hiking` `badminton`.   
+2021 spring __BFA Graduation__
+
+2020 __Two-person Show__  
+2019 __Stay in Sweden__ `dancing afrohouse` `listening techno` `weight training`.  
+2018 __Three-person Show__ 
 
 <!--
 **energywhoisshe/energywhoisshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
