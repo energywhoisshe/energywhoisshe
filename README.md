@@ -15,11 +15,11 @@ I'm a proffesional artist and currently working on **resillience and creativity*
 |---|---|---|---|---|
 |2022|  | `bouldering` | `meditation` | `stop-smoking` `writing morning-page` `stopping psychotropic medication` `teaching childen art`|
 |2021| __Solo Show__ `learning C++` | `hiking` `badminton` `ping-pong` | | `teaching childen art` |
-|2020| __Two-person Show / BFA Graduation Show__ |테스트3| |설명|
-|2019| __Studied in Sweden__ | `weight training` | `dancing afrohouse` `listening techno` | `teaching public art` |
-|2018| __Three-person Show__ | `weight training` |  | `teaching public art` |
-|2017|  |   |  | `teaching public art` |
-|2016| __Foundation Show__ | `weight training` |테스트3|설명|설명|
+|2020| __Two-person Show / BFA Graduation Show__ | | | |
+|2019| __Studied in Sweden__ | `weight training` | `dancing afrohouse` `listening techno` | `running picture book making workshop` |
+|2018| __Three-person Show__ | `swimming` `weight training` |  | `lesbian feminism group study` `running feminism art workshop`  `teaching public art` |
+|2017|  |  `swimming` | `visiting Vallon Pont D'arc` | `teaching public art` |
+|2016| __Foundation Show__ | `weight training` | | | |
 
 
 <!--
