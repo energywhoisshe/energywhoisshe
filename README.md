@@ -4,7 +4,7 @@ Last Updated on 2022.05
 energywhoisshe@gmail.com
 ```
 
-I'm an proffesional artist and currently working on **resillience and creativity**.
+I'm a proffesional artist and currently working on **resillience and creativity**.
 
 <br>
 <br>
