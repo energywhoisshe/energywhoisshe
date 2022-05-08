@@ -15,8 +15,8 @@ I'm a proffesional artist and currently working on **resillience and creativity*
 
 | | <span style="color:red"> mental 정신체 | physical 육체 | spiritual 영체 | emotional 감정체 |
 |---|---|---|---|---|
-|2022| `C++` `installation` | `bouldering` `badminton` `ping-pong` `meditation` | `ghost-story maniac` `stone wrapping craft` | `stop-smoking` `writing morning-page` `stopping psychotropic medication` `teaching childen art`|
-|2021| __Solo Show__ `C++` `installation` | `hiking` `badminton` `ping-pong` `meditation` |  | `teaching childen art` |
+|2022| `C++` `installation` | **`bouldering`** `badminton` `ping-pong` `meditation` | `ghost-story maniac` `stone wrapping craft` | **`stop-smoking`** `writing morning-page` `stopping psychotropic medication` `teaching childen art`|
+|2021| __Solo Show__ `C++` `installation` | `hiking` `badminton` `ping-pong` `meditation` |  | `teaching childen art` `psychotropic medication` |
 |2020| __Two-person Show / BFA Graduation Show__ `performance directing` `filming` `installation` | 🤍 | 🤍 | 🤍 |
 
 <br>
