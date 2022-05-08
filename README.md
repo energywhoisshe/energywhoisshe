@@ -11,7 +11,7 @@ I'm a proffesional artist and currently working on **resillience and creativity*
 <br>
 <br>
 
-#### 4 body tracker (2022-2016)
+#### 4 body tracker (2022-2020)
 
 | | <span style="color:red"> mental 정신체 | physical 육체 | spiritual 영체 | emotional 감정체 |
 |---|---|---|---|---|
