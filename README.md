@@ -17,7 +17,7 @@ I'm a proffesional artist and currently working on **resillience and creativity*
 |---|---|---|---|---|
 |2022| **`C++`** **`html`** `installation` | **`bouldering`** `badminton` `ping-pong` | `ghost-story maniac` `stone wrapping craft` `meditation` | **`stop-smoking`** `writing morning-page` `stopping psychotropic medication` `teaching childen art`|
 |2021| **`C++`** `installation` | **`badminton`** `ping-pong` `CrossFit` | `meditation` | **`teaching childen art`** `psychotropic medication` |
-|2020| **`performance directing`** `filming` `installation` | 🤍 | 🤍 | 🤍 |
+|2020| **`performance directing`** `filming` `installation` | `monoamory relationship` | `monoamory relationship` | `monoamory relationship` |
 
 <br>
 <br>
