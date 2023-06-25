@@ -1,7 +1,1 @@
-<br>
-<br>
-
-energywhoisshe@gmail.com
-
-I'm a proffesional artist and currently working on **resillience and creativity**.
-
+Cha Yeonså 차연서
